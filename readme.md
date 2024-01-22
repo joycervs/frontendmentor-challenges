@@ -26,7 +26,6 @@ This is a <strong>study</strong> repository where I'll compile my solutions to <
 
 ## Topics/Skills 🚀
 
-- UI Design 📚
-- HTML5 📚
-- CSS3 📚
-- JavaScript 📚
+- HTML5 
+- CSS3 
+- JavaScript 
