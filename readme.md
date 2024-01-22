@@ -22,7 +22,7 @@ Este é um repositório de <strong>estudos</strong>, onde reunirei minhas soluç
 
 ##### EN
 
-This is a <strong>study</strong> repository where I'll compile my solutions to <strong>[Frontend Mentor's](https://www.frontendmentor.io/challenges)</strong> coding challenges. The goal is to keep my coding practices organized and document my progress as I gain more knowledge.
+This is a <strong>study</strong> repository where I'll compile my solutions to <strong>[Frontend Mentor's](https://www.frontendmentor.io/challenges)</strong> coding challenges. The goal is to keep my coding practices organized and document my progress as I achieve more knowledge.
 
 ## Topics/Skills 🚀
 
