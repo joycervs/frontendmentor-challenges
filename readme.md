@@ -1,6 +1,6 @@
 [Português](#PT) | [English](#en)
 
-<img src="./img-readme/img.jpg" width=200px>
+<img src="./img.jpg" width=200px>
 
 # Meus estudos 📝📚
 
